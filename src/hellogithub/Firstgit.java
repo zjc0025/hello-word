@@ -6,6 +6,7 @@ public class Firstgit {
 		System.out.println("first git  project!");
 		System.out.println(111);
 		System.out.println(666);
+		System.out.println(8);
 	}
 	
 }
